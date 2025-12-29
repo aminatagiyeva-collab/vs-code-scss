@@ -1,0 +1,19 @@
+.h1 {
+  font-size: 3.125rem;
+  margin-bottom: 2rem;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+.container .sol {
+  float: left;
+  width: gridsys(0.3);
+  background: orange;
+}
+.container .sag {
+  float: left;
+  width: gridsys(0.7);
+  background: blue;
+}/*# sourceMappingURL=function.css.map */
