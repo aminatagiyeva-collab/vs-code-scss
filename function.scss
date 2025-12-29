@@ -5,7 +5,7 @@
 
 
 .h1 {
-  font-size: px-to-rem(50); // 1.5rem
+  font-size: px-to-rem(50); 
   margin-bottom: px-to-rem(32);
 }
 
@@ -19,13 +19,13 @@
 
   .sol {
     float: left;
-    width: grid(3, 10); // 30%
+    width: grid(3, 10); 
     background: orange;
   }
 
   .sag {
     float: left;
-    width: grid(7, 10); // 70%
+    width: grid(7, 10); 
     background: blue;
   }
 }
