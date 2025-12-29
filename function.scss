@@ -3,7 +3,7 @@
   @return ($px / $base) * 1rem;
 }
 
-// İstifadə nümunəsi
+
 .h1 {
   font-size: px-to-rem(50); // 1.5rem
   margin-bottom: px-to-rem(32);
